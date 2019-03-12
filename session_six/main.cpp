@@ -1,5 +1,5 @@
 //Author: Tremaine Buchanan
-//Date: Marcg 12, 2019
+//Date: March 12, 2019
 //Practise Set Two
 //Question 2
 //Using the switch/case control structure of C++ develop a menu driven calculator. 
