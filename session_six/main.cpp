@@ -44,7 +44,7 @@ int main(){
         break;
         case 4: cout << "The product of " << num_one << " and " << num_two << " is " << num_one * num_two << endl;
         break;
-        default: cout << "You're choice of " << choice << " does not corresponding any menu items\n";
+        default: cout << "You're choice of " << choice << " does not correspond with any menu items\n";
     }
     return 0;
 }
