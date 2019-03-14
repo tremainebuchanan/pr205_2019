@@ -14,6 +14,6 @@ int main(){
         cin >> number;
         sum = sum + number;
     }
-    cout << "The average of numbers is " << sum / count << endl;
+    cout << "The average of the numbers entered is " << sum / count << endl;
     return 0;
 }
